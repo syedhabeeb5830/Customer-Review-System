@@ -1,16 +1,4 @@
 
-  // Your web app's Firebase configuration
-  // For Firebase JS SDK v7.20.0 and later, measurementId is optional
-//   var firebaseConfig = {
-//     apiKey: "AIzaSyBkcLrQaixp8dhiMrNfrWdJ52nyadLS4cU",
-//     authDomain: "login-demo-254f7.firebaseapp.com",
-//     projectId: "login-demo-254f7",
-//     storageBucket: "login-demo-254f7.appspot.com",
-//     messagingSenderId: "228883805517",
-//     appId: "1:228883805517:web:db9063121d6bf3a79ab304",
-//     measurementId: "G-C8Q2HYKHY1"
-//   };
-
 
 
 
@@ -39,7 +27,6 @@
     promise.catch(e=>alert(e.message));
 
 
-    window.location.href = "C:/Users/syed%20habeeb%20uddin/Desktop/Sign_Up/public/Home.html"
   }
 
   //signIN function
