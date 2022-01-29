@@ -35,7 +35,6 @@
     var password  = document.getElementById("password");
     const promise = auth.signInWithEmailAndPassword(email.value,password.value);
     promise.catch(e=>alert(e.message));
-    window.location.href = "C:/Users/syed%20habeeb%20uddin/Desktop/Sign_Up/public/Home.html"
 
   }
 
